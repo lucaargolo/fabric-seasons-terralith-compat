@@ -73,6 +73,10 @@ repositories {
         name = "Curse Maven"
         url = uri("https://cursemaven.com")
     }
+    maven {
+        name = "Cafeteria"
+        url = uri("https://maven.cafeteria.dev/releases")
+    }
     mavenLocal()
 }
 
