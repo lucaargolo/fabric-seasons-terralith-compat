@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "seasonsterralithcompat",
+  "version": "${version}",
+  "name": "Fabric Seasons: Terralith Compat",
+  "description": "Terralith compatibility for Fabric Seasons",
+  "authors": [
+    "D4rkness_King"
+  ],
+  "contact": {
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods/fabric-seasons-terralith-compat",
+    "sources": "https://github.com/lucaargolo/fabric-seasons-terralith-compat",
+    "issues": "https://github.com/lucaargolo/fabric-seasons-terralith-compat/issues"
+  },
+  "license": "Mozilla Public License 2.0",
+  "icon": "assets/seasonsterralithcompat/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "io.github.lucaargolo.seasonsterralithcompat.FabricSeasonsTerralithCompat"
+    ]
+  },
+  "depends": {
+    "seasons": ">=2.0-BETA"
+  },
+  "custom": {
+    "modmenu": {
+      "links": {
+        "modmenu.discord": "https://discord.com/invite/G4PjhEf"
+      },
+      "parent": {
+        "id": "seasons"
+      }
+    }
+  }
+}
