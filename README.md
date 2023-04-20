@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.imgur.com/35XT2Fk.png"></p>
+<p align="center"><img src="https://i.imgur.com/SwiOw80.png"></p>
 <h3 align="center">Fabric Seasons: Terralith Compat</h3>
 <p align="center">A simple mod that adds compatibility between Oh The Biomes You'll Go and Fabric Seasons.</p>
 <p align="center">
