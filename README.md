@@ -1,6 +1,6 @@
 <p align="center"><img src="https://i.imgur.com/SwiOw80.png"></p>
 <h3 align="center">Fabric Seasons: Terralith Compat</h3>
-<p align="center">A simple mod that adds compatibility between Oh The Biomes You'll Go and Fabric Seasons.</p>
+<p align="center">A simple mod that adds compatibility between Terralith and Fabric Seasons.</p>
 <p align="center">
   <a href="https://github.com/lucaargolo/fabric-seasons-terralith-compat/actions"><img src="https://github.com/lucaargolo/fabric-seasons-terralith-compat/workflows/Build/badge.svg"/></a>
   <a href="https://opensource.org/licenses/MPL-2.0"><img src="https://img.shields.io/badge/License-MPL%202.0-blue"></a>
